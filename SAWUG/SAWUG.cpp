@@ -1,7 +1,7 @@
 ﻿// SAWUG.cpp : Defines the entry point for the application.
 //
 
-#include "SAWUG.h"
+#include "include/SAWUG.h"
 
 using namespace std;
 
