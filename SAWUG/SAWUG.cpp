@@ -2,11 +2,17 @@
 //
 
 #include "include/SAWUG.h"
+#include "include/app/menu.h"
 
 using namespace std;
 
 int main()
 {
-	cout << "Hello SAWUG ;>   --R." << endl;
+
+	while (1) {
+		
+	}
+
+
 	return 0;
 }
